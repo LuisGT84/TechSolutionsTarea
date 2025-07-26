@@ -39,7 +39,7 @@ public class Main {
     // Datos del estudiante (reemplaza por los tuyos)
     private static final String NOMBRE  = "Luis Alfredo Tejeda Hernandez";
     private static final String CARNET  = "6590-22-20215";
-    private static final String SECCION = "Seccion: 6";
+    private static final String SECCION = "Seccion: 5";
 
     // Jackson
     private static final ObjectMapper MAPPER = new ObjectMapper();
